@@ -9,7 +9,7 @@
 - I am currently studying typescript, react  
   
 
-- Fun fact: I Valorant player  
+- Fun fact: I'm Valorant player  
   
 
 <br/>  
